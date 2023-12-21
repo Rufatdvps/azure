@@ -1,0 +1,13 @@
+.vscode/*
+.alpackages/*
+.snapshots/*
+.history/
+*.json
+*.log
+*.app
+*.fob
+*.xlsx
+!app.json
+!AppSourceCop.json
+!.vscode/settings.json
+!thunder-tests/*.json
